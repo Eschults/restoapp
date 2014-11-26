@@ -1,0 +1,15 @@
+$body-bg: yellow;
+$input-bg: black;
+$input-color: white;
+
+
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+@import "navbar";
+@import "footer";
+
+body {
+  padding-top: 40px;
+}
